@@ -1,0 +1,16 @@
+{
+    "name": "tiogiras.progressive-virtual-texture-map.Editor",
+    "rootNamespace": "Tiogiras.PVTM",
+    "references": [
+        "GUID:d8fa0a953a7f911469b0a87783f7429a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

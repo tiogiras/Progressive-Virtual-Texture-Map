@@ -1,0 +1,27 @@
+{
+  "name": "com.tiogiras.progressive-virtual-texture-map",
+  "version": "0.1.0",
+  "displayName": "Progressive Virtual Texture Map",
+  "description": "A package implementing a runtime progressive virtual texturing system for rendering large-scale 2D projections of 3D environments using hierarchical tiled RenderTextures. Designed for VR and real-time applications where high texel density and stable frame timing are critical.",
+  "unity": "6000.2",
+  "documentationUrl": "https://github.com/tiogiras/Progressive-Virtual-Texture-Map",
+  "changelogUrl": "https://github.com/tiogiras/Progressive-Virtual-Texture-Map/releases",
+  "licensesUrl": "https://github.com/tiogiras/Progressive-Virtual-Texture-Map/blob/main/LICENSE",
+  "dependencies": {
+  },
+  "keywords": [
+  ],
+  "author": {
+    "name": "Tiogiras",
+    "email": "tiogiras@gmail.com",
+    "url": "https://github.com/tiogiras/Progressive-Virtual-Texture-Map"
+  },
+  "samples": [
+    {
+      "displayName": "Sample URP",
+      "description": "Contains a sample showcasing how the package works.",
+      "path": "Samples/SampleURP"
+    }
+  ]
+}
+
